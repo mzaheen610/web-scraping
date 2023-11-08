@@ -38,9 +38,9 @@ def webscraper():
         except Exception as e:
             print(e)
 
-executor = ThreadPoolExecutor(max_workers= 5)
+executor = ThreadPoolExecutor(max_workers= int(configurations['concurrency']))
 
-for i in range(5):
+for i in range(int(configurations['concurrency'])):
     executor.submit(webscraper)
 
 executor.shutdown()
