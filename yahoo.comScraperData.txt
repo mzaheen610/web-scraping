@@ -1,0 +1,409 @@
+
+URL : https://www.yahoo.com
+Status Code : 200
+Download Time : 0:00:01.034267
+HTML Size : 1361044B
+Title : Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
+H1 : Yahoo Home
+H2 : Skip navigation links
+URL : https://www.yahoo.com/
+Status Code : 200
+Download Time : 0:00:00.809054
+HTML Size : 1361011B
+Title : Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
+H1 : Yahoo Home
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/
+Status Code : 200
+Download Time : 0:00:00.785928
+HTML Size : 1209739B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://news.yahoo.com/us/
+Status Code : 200
+Download Time : 0:00:01.183129
+HTML Size : 1051050B
+Title : US | Yahoo News - Latest News & Headlines
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://news.yahoo.com/politics/
+Status Code : 200
+Download Time : 0:00:01.355448
+HTML Size : 1070976B
+Title : Latest Political News, Updates, and Analysis - Yahoo News
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://news.yahoo.com/world/
+Status Code : 200
+Download Time : 0:00:00.741791
+HTML Size : 1035431B
+Title : World News - Latest and Breaking Coverage - Yahoo News
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://finance.yahoo.com/tech/
+Status Code : 200
+Download Time : 0:00:01.845001
+HTML Size : 1458057B
+Title : Yahoo Tech - Technology News and Reviews
+URL : https://news.yahoo.com/science/
+Status Code : 200
+Download Time : 0:00:01.394858
+HTML Size : 1034453B
+Title : Latest Science News and Updates on Space, Climate Change and More - Yahoo News
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/weather/
+Status Code : 200
+Download Time : 0:00:00.895251
+HTML Size : 822534B
+Title : Weather Forecasts | Maps | News - Yahoo Weather
+H1 : Yahoo Weather
+H2 : My Locations
+URL : https://www.yahoo.com/news/tagged/opinion/
+Status Code : 200
+Download Time : 0:00:00.850854
+HTML Size : 1026041B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://news.yahoo.com/tagged/360/
+Status Code : 200
+Download Time : 0:00:01.167450
+HTML Size : 1025839B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://news.yahoo.com/tagged/skullduggery/
+Status Code : 200
+Download Time : 0:00:00.870990
+HTML Size : 1025929B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://news.yahoo.com/tagged/conspiracyland/
+Status Code : 200
+Download Time : 0:00:01.433721
+HTML Size : 1025846B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://finance.yahoo.com
+Status Code : 200
+Download Time : 0:00:00.724191
+HTML Size : 1606323B
+Title : Yahoo Finance - Stock Market Live, Quotes, Business & Finance News
+H2 : Credit card debt hits new record as millennials struggle most
+URL : https://finance.yahoo.com/portfolios/
+Status Code : 200
+Download Time : 0:00:01.678672
+HTML Size : 1283332B
+Title : Stock Portfolio & Tracker - Yahoo Finance
+H1 : Welcome to My Portfolio - Link your brokers or add lots
+URL : https://finance.yahoo.com/plus-dashboard?ncid=dcm_306158762_490172245_127172993
+Status Code : 404
+Download Time : 0:00:01.466912
+HTML Size : 2067B
+Title : Yahoo
+H1 : Will be right back...
+URL : https://finance.yahoo.com/news/
+Status Code : 200
+Download Time : 0:00:01.624622
+HTML Size : 1454230B
+Title : Latest Financial and Business News - Yahoo Finance
+H1 : Latest Financial and Business News
+URL : https://finance.yahoo.com/screener/
+Status Code : 200
+Download Time : 0:00:01.534876
+HTML Size : 1551317B
+Title : Stock Screeners - Yahoo Finance
+H1 : Stock Screeners - Yahoo Finance
+H2 : Yahoo Finance Plus Screeners
+URL : https://finance.yahoo.com/calendar/
+Status Code : 200
+Download Time : 0:00:00.809704
+HTML Size : 1474777B
+Title : Financial Calendars - Yahoo Finance
+H1 : Financial Calendars - Yahoo Finance
+URL : https://finance.yahoo.com/videos/
+Status Code : 400
+Download Time : 0:00:00.674560
+HTML Size : 4460B
+Title : Yahoo
+H1 : Will be right back...
+URL : https://finance.yahoo.com/watchlists/
+Status Code : 200
+Download Time : 0:00:01.521911
+HTML Size : 1513849B
+Title : Curated Stock Watch Lists & Categories - Yahoo Finance
+H2 : Crowded Hedge Fund Positions
+URL : https://finance.yahoo.com/topic/personal-finance/
+Status Code : 200
+Download Time : 0:00:01.462393
+HTML Size : 1457769B
+Title : Personal Finance: Information & Tools to Help You Handle Your Finances
+H1 : Personal Finance: Information & Tools to Help You Handle Your Finances
+URL : https://finance.yahoo.com/crypto/
+Status Code : 200
+Download Time : 0:00:01.657610
+HTML Size : 1699528B
+Title : Crypto Real Time Prices & Latest News - Yahoo Finance
+H2 : Cryptocurrencies / Latest News
+URL : https://finance.yahoo.com/screener/predefined/ms_basic_materials/
+Status Code : 200
+Download Time : 0:00:01.441532
+HTML Size : 1789038B
+Title : Top Basic Materials Sector List | Screener - Yahoo Finance
+H1 : Basic Materials
+URL : https://sports.yahoo.com
+Status Code : 200
+Download Time : 0:00:01.327486
+HTML Size : 1271783B
+Title : Yahoo Sports: News, Scores, Video, Fantasy Games, Schedules & More  - Yahoo Sports
+H1 : Yahoo Sports
+URL : https://sports.yahoo.com/fantasy/
+Status Code : 200
+Download Time : 0:00:01.268893
+HTML Size : 872095B
+Title : Fantasy News, Rumors, Scores, Stats, Standings  - Yahoo Sports
+H1 : Yahoo Sports
+URL : https://sports.yahoo.com/dailyfantasy/
+Status Code : 200
+Download Time : 0:00:01.570760
+HTML Size : 1553139B
+Title : Yahoo Sports - Daily Fantasy
+H1 : Daily Fantasy Contests
+H2 : Sign in to play Daily Fantasy
+URL : https://sports.yahoo.com/nfl/
+Status Code : 200
+Download Time : 0:00:01.068943
+HTML Size : 1008904B
+Title : NFL National Football League News, Video, Rumors, Scores, Stats, Standings  - Yahoo Sports
+H1 : Yahoo Sports
+URL : https://sports.yahoo.com/nba/
+Status Code : 200
+Download Time : 0:00:00.983606
+HTML Size : 1025014B
+Title : NBA National Basketball Association News, Video, Rumors, Scores, Stats, Standings  - Yahoo Sports
+H1 : Yahoo Sports
+URL : https://sports.yahoo.com/mlb/
+Status Code : 200
+Download Time : 0:00:01.230595
+HTML Size : 1144203B
+Title : MLB Major League Baseball News, Video, Rumors, Scores, Stats, Standings  - Yahoo Sports
+H1 : Yahoo Sports
+URL : https://sports.yahoo.com/nhl/
+Status Code : 200
+Download Time : 0:00:01.000845
+HTML Size : 1042674B
+Title : NHL National Hockey League News, Video, Rumors, Scores, Stats, Standings  - Yahoo Sports
+H1 : Yahoo Sports
+URL : https://www.yahoo.com
+Status Code : 200
+Download Time : 0:00:01.080527
+HTML Size : 1753981B
+Title : Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
+H1 : Yahoo Home
+H2 : Super Tuesday guide: Track the vote, state by state.
+URL : https://www.yahoo.com/election
+Status Code : 200
+Download Time : 0:00:00.823945
+HTML Size : 1329230B
+Title : 2024 U.S. Election - Latest News and Updates on Presidential and State Races
+H1 : Yahoo News
+H2 : From Yahoo News
+URL : https://www.yahoo.com/
+Status Code : 200
+Download Time : 0:00:01.371369
+HTML Size : 1753974B
+Title : Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
+H1 : Yahoo Home
+H2 : Super Tuesday guide: Track the vote, state by state.
+URL : https://www.yahoo.com/news/
+Status Code : 200
+Download Time : 0:00:01.177997
+HTML Size : 1465852B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/us/
+Status Code : 200
+Download Time : 0:00:01.372996
+HTML Size : 1298744B
+Title : US | Yahoo News - Latest News & Headlines
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/politics/
+Status Code : 200
+Download Time : 0:00:00.708597
+HTML Size : 1323998B
+Title : Latest Political News, Updates, and Analysis - Yahoo News
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/world/
+Status Code : 200
+Download Time : 0:00:01.299688
+HTML Size : 1319219B
+Title : World News - Latest and Breaking Coverage - Yahoo News
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/
+Status Code : 200
+Download Time : 0:00:01.253353
+HTML Size : 1248116B
+Title : Yahoo Tech | Technology News, Updates, Reviews & Stories
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/reviews-deals/
+Status Code : 200
+Download Time : 0:00:01.398400
+HTML Size : 1195592B
+Title : Tech Reviews and Deals | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/audio/
+Status Code : 200
+Download Time : 0:00:00.749683
+HTML Size : 1196401B
+Title : Audio | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/computing/
+Status Code : 200
+Download Time : 0:00:01.107243
+HTML Size : 1196298B
+Title : Computing | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/gaming/
+Status Code : 200
+Download Time : 0:00:01.210175
+HTML Size : 1196775B
+Title : Gaming | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/health/
+Status Code : 200
+Download Time : 0:00:00.804508
+HTML Size : 1196548B
+Title : Health | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/home/
+Status Code : 200
+Download Time : 0:00:01.328319
+HTML Size : 1196659B
+Title : Home Entertainment | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/phones/
+Status Code : 200
+Download Time : 0:00:01.605905
+HTML Size : 1196978B
+Title : Phones | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/science/
+Status Code : 200
+Download Time : 0:00:00.935743
+HTML Size : 1196684B
+Title : Science | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/tech/tvs/
+Status Code : 200
+Download Time : 0:00:00.911324
+HTML Size : 1196298B
+Title : TVs | Yahoo Tech
+H1 : Yahoo Tech
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/weather/
+Status Code : 200
+Download Time : 0:00:00.943632
+HTML Size : 988770B
+Title : Weather Forecasts | Maps | News - Yahoo Weather
+H1 : Yahoo Weather
+H2 : My Locations
+URL : https://yahoo.com/tagged/climate-change/
+Status Code : 200
+Download Time : 0:00:01.972476
+HTML Size : 707088B
+Title : Climate Change | Yahoo - Latest News & Headlines
+H1 : Yahoo Home
+URL : https://www.yahoo.com/news/health/
+Status Code : 200
+Download Time : 0:00:00.919527
+HTML Size : 1317090B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/science/
+Status Code : 200
+Download Time : 0:00:00.918598
+HTML Size : 1317783B
+Title : Latest Science News and Updates on Space, Climate Change and More - Yahoo News
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/election/
+Status Code : 200
+Download Time : 0:00:00.964099
+HTML Size : 1329225B
+Title : 2024 U.S. Election - Latest News and Updates on Presidential and State Races
+H1 : Yahoo News
+H2 : From Yahoo News
+URL : https://news.yahoo.com/originals/
+Status Code : 200
+Download Time : 0:00:00.917828
+HTML Size : 1324341B
+Title : Latest Trending and Live Original Coverage from Yahoo News
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://www.yahoo.com/news/tagged/360/
+Status Code : 200
+Download Time : 0:00:00.968211
+HTML Size : 1314901B
+Title : Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More
+H1 : Yahoo News
+H2 : Skip navigation links
+URL : https://finance.yahoo.com/
+Status Code : 200
+Download Time : 0:00:01.579238
+HTML Size : 2143708B
+Title : Yahoo Finance - Stock Market Live, Quotes, Business & Finance News
+H2 : Target pops amid earnings beat, CEO vows return to growth
+URL : https://finance.yahoo.com/portfolios/
+Status Code : 200
+Download Time : 0:00:01.428013
+HTML Size : 1284468B
+Title : Stock Portfolio & Tracker - Yahoo Finance
+H1 : Welcome to My Portfolio - Link your brokers or add lots
+URL : https://finance.yahoo.com/portfolio/p_1/view/v1
+Status Code : 404
+Download Time : 0:00:01.226876
+HTML Size : 2067B
+Title : Yahoo
+H1 : Will be right back...
+URL : https://finance.yahoo.com/news/
+Status Code : 200
+Download Time : 0:00:01.188261
+HTML Size : 1445532B
+Title : Latest Financial and Business News - Yahoo Finance
+H1 : Latest Financial and Business News
+URL : https://finance.yahoo.com/topic/stock-market-news/
+Status Code : 200
+Download Time : 0:00:01.242383
+HTML Size : 1449680B
+Title : Latest Stock Market News
+H1 : Stock Market News
+URL : https://finance.yahoo.com/topic/economic-news
+Status Code : 200
+Download Time : 0:00:01.423544
+HTML Size : 1455924B
+Title : Economic News and Analysis
+H1 : Economic News and Analysis
+URL : https://finance.yahoo.com/topic/earnings
+Status Code : 200
+Download Time : 0:00:01.260532
+HTML Size : 1448683B
+Title : Earnings Reports, Whispers & Company Earnings News - Yahoo Finance
+H1 : Earnings Reports, Whispers & Company Earnings News
